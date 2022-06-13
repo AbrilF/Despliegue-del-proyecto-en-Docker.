@@ -35,11 +35,12 @@ Hasta aqui la parte principal ahora procedere con la parte de DOCKER.
 3. Creamos un commit de repositorio para convertirlo en imagen.
 - ![5049b66f-0203-402b-9ebd-2825cbb06296](https://user-images.githubusercontent.com/72273897/173436407-e6e59aba-049d-4db6-b066-4d22b7fb801f.jpg)
 4. Le cambiamos el tag.
-- ![39eb1ed3-8345-4a59-8032-9643a082a44f](https://user-images.githubusercontent.com/72273897/173436436-d9f420eb-be78-4b07-a39e-e70bd1146524.jpg)
+- ![704a2ff4-f925-4fc1-a926-a122e33908e4](https://user-images.githubusercontent.com/72273897/173436967-fdbe5f20-0433-49fd-b6ab-083d89c1cb15.jpg)
 5. Hacemos el push.
-- ![72856995-89a2-4cdb-88f3-4410320cf69b](https://user-images.githubusercontent.com/72273897/173436562-45a7f226-bc1c-4fbc-8bb4-3cead39a913d.jpg)
+- ![44e9319c-6b52-44ab-801c-da3f70185b7a](https://user-images.githubusercontent.com/72273897/173437138-68b51677-94c8-49f8-bde8-d84424690372.jpg)
 6. Y aqui lo tendriamos.
-- ![c59e6858-ef54-4782-bebb-684035b48557](https://user-images.githubusercontent.com/72273897/173436820-25541615-fff0-4152-a29c-ae8a7858b328.jpg)
+- ![2257405f-89ee-46e7-b40d-6a90f88901f5](https://user-images.githubusercontent.com/72273897/173437158-917c5044-def0-4201-8134-0cae2dca3e26.jpg)
+
 
 
 
