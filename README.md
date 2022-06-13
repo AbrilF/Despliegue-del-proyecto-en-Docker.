@@ -26,3 +26,22 @@ Abril Frongia.
 - ![b3bbcbe5-ea40-4339-91d2-0728218249f5](https://user-images.githubusercontent.com/72273897/173430028-0931241f-1744-450a-bfdd-a41d1151098b.jpg)
 - ![067ae119-9854-4aa6-b7fb-d8e67502764d](https://user-images.githubusercontent.com/72273897/173430215-04a97623-89d6-41a3-a74d-220084cfd80c.jpg)
 - ![286d7eed-54a0-4d02-847c-a3c24ae0694d](https://user-images.githubusercontent.com/72273897/173430009-a52250a7-6f5d-453d-96eb-831f0959d31f.jpg)
+Hasta aqui la parte principal ahora procedere con la parte de DOCKER.
+---
+1. Convertimos el repositorio en una imagen.
+- ![5978a41e-5a28-405a-be8b-08480de13fcd](https://user-images.githubusercontent.com/72273897/173433644-e372845e-6996-4f93-aed2-e98feff3d54c.jpg)
+2. Iniciamos sesión en Docker.
+- ![33fe8cf0-cf0a-42ba-99a6-ee073d5f6c28](https://user-images.githubusercontent.com/72273897/173433722-260b9237-3fef-4fe7-90d9-d231d6246a86.jpg)
+3. Creamos un commit de repositorio para convertirlo en imagen.
+- ![5049b66f-0203-402b-9ebd-2825cbb06296](https://user-images.githubusercontent.com/72273897/173436407-e6e59aba-049d-4db6-b066-4d22b7fb801f.jpg)
+4. Le cambiamos el tag.
+- ![39eb1ed3-8345-4a59-8032-9643a082a44f](https://user-images.githubusercontent.com/72273897/173436436-d9f420eb-be78-4b07-a39e-e70bd1146524.jpg)
+5. Hacemos el push.
+- ![72856995-89a2-4cdb-88f3-4410320cf69b](https://user-images.githubusercontent.com/72273897/173436562-45a7f226-bc1c-4fbc-8bb4-3cead39a913d.jpg)
+6. Y aqui lo tendriamos.
+- ![c59e6858-ef54-4782-bebb-684035b48557](https://user-images.githubusercontent.com/72273897/173436820-25541615-fff0-4152-a29c-ae8a7858b328.jpg)
+
+
+
+
+
